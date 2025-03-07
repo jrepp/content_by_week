@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the data
-file_path = "/mnt/data/files_table_export_2.csv"
+file_path = "file_by_week_prod.csv"
 df = pd.read_csv(file_path)
 
 # Rename columns
